@@ -1,0 +1,16 @@
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\bin\Debug\net5.0\Programa 3.exe
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\bin\Debug\net5.0\Programa 3.deps.json
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\bin\Debug\net5.0\Programa 3.runtimeconfig.json
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\bin\Debug\net5.0\Programa 3.runtimeconfig.dev.json
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\bin\Debug\net5.0\Programa 3.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\bin\Debug\net5.0\ref\Programa 3.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\bin\Debug\net5.0\Programa 3.pdb
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\obj\Debug\net5.0\Programa 3.csprojAssemblyReference.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\obj\Debug\net5.0\Programa 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\obj\Debug\net5.0\Programa 3.AssemblyInfoInputs.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\obj\Debug\net5.0\Programa 3.AssemblyInfo.cs
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\obj\Debug\net5.0\Programa 3.csproj.CoreCompileInputs.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\obj\Debug\net5.0\Programa 3.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\obj\Debug\net5.0\ref\Programa 3.dll
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\obj\Debug\net5.0\Programa 3.pdb
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 5\Programa 3\obj\Debug\net5.0\Programa 3.genruntimeconfig.cache
